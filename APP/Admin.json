@@ -1,0 +1,22 @@
+{
+    "Admin":{
+        "isPhotographerShow":true,
+        "isAppActive":true,
+        "minVersion":1,
+        "URLs":{
+            "t&c":"",
+            "PP":"",
+            "h&f":""
+        }
+    },
+    "API":{
+        "mainAPIKey":"8HjAxiU4GfdpurdyUEe5RjXv72BNJX00ZiIzx2bxDh1kLayn7AzxJFzF",
+        "bannerAPI":"https://monjelmorshedsabbir.github.io/Wallpaper-Admin/APP/APIs/Banner.json",
+        "PremiumAPI":"https://monjelmorshedsabbir.github.io/Wallpaper-Admin/APP/APIs/Premium.json",
+        "Premium":{
+            "wallpapersUnlockDays":5,
+            "isShowDaysCount":false,
+            "isPremiumLocked":true
+        }
+    }
+}
