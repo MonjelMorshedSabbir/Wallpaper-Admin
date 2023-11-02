@@ -16,7 +16,7 @@
         "Premium":{
             "wallpapersUnlockDays":5,
             "isShowDaysCount":false,
-            "isPremiumLocked":true
+            "isPremiumLocked":false
         }
     }
 }
