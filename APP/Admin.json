@@ -24,7 +24,8 @@
         "Premium":{
             "wallpapersUnlockDays":5,
             "isShowDaysCount":false,
-            "isPremiumLocked":false
+            "isPremiumLocked":false,
+            "canDownloadPremium":true
         }
     }
 }
