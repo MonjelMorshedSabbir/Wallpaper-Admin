@@ -3,6 +3,14 @@
         "isPhotographerShow":true,
         "isAppActive":true,
         "minVersion":1,
+        "sharing":{
+            "canSave":true,
+            "explainSave":"Allowing user that they can save image or not",
+            "canInstantSave":true,
+            "explainInstantSave":"if false user will download raw data and it will consume user data pack",
+            "canInstantSave&Share":true,
+            "explainInstantSave&Share":"if canSave, canInstantSave, & canInstantSave&Share [3] is true then user can share image directly from app"
+        },
         "URLs":{
             "t&c":"",
             "PP":"",
