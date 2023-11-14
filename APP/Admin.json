@@ -12,9 +12,9 @@
             "explainInstantSave&Share":"if canSave, canInstantSave, & canInstantSave&Share [3] is true then user can share image directly from app"
         },
         "URLs":{
-            "t&c":"",
-            "PP":"",
-            "h&f":""
+            "t&c":"https://sites.google.com/view/wall-paper-app/Terms",
+            "PP":"https://sites.google.com/view/wall-paper-app/Policy",
+            "h&f":"App URL auto get in app"
         }
     },
     "API":{
