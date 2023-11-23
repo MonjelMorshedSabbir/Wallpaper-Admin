@@ -23,8 +23,8 @@
         "PremiumAPI":"https://monjelmorshedsabbir.github.io/Wallpaper-Admin/APP/APIs/Premium.json",
         "Premium":{
             "wallpapersUnlockDays":5,
-            "isShowDaysCount":false,
-            "isPremiumLocked":false,
+            "isShowDaysCount":true,
+            "isPremiumLocked":true,
             "canDownloadPremium":true
         }
     }
